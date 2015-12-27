@@ -10,4 +10,22 @@
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  padding-top: 10%;
+  padding-bottom: 35em;
+  /*font-family: 'Poiret One', cursive;*/
 }
+
+/* vert-centered text */
+.text-vertcenter {
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+}
+.text-vertcenter h1 {
+  font-size: 4.5em;
+  font-weight: 700;
+  margin: 0;
+  padding: 0;
+}
+
+#about{}
