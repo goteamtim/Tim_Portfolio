@@ -71,3 +71,9 @@ projects div{
   background: -moz-radial-gradient( grey,black); /* Firefox 3.6 to 15 */
   background: radial-gradient(grey, black); /* Standard syntax */
 }
+
+.bottom-project p{
+	color: white;
+  text-align: center;
+  vertical-align: middle;
+}
