@@ -53,7 +53,6 @@
 
 #contact {
   background: url(../img/contact.jpg) no-repeat center center fixed;
-  background-opacity: 0.6;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -101,3 +100,12 @@ top: -5px;
   vertical-align: middle;
   margin: 0 auto;
 }
+
+.footer {
+  position: relative;
+  margin-top: -120px;
+  height: 120px;
+  clear:both;
+  padding-top:20px;
+  background-color: #f8f8f8;
+} 
