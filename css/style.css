@@ -50,12 +50,24 @@
   padding-bottom: 5em;
 }
 
-projects div{
-	border: 1px solid black;
-	width: 300px;
-	height: 300px;
-  text-align: center;
-  vertical-align: middle;
+
+#contact {
+  background: url(../img/contact.jpg) no-repeat center center fixed;
+  background-opacity: 0.6;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  width:100%;
+  padding-top: 5%;
+  padding-bottom: 15em;
+  opacity: 0.6;
+}
+
+#description {
+  background-color: #FFFFFF;
+  opacity: 0.6;
+  border-radius: 25px;
 }
 
 .top-project {
@@ -80,21 +92,12 @@ float: none !important;
   margin-left: auto;
 margin-right: auto;
 float: none !important;
+top: -5px;
 }
 
 .bottom-project p{
 	color: white;
   text-align: center;
   vertical-align: middle;
-  margin: 0 auto;
-}
-
-.dotted {
-  border: 2px dotted red;
-  margin: 0 auto;
-  text-align: center;
-}
-
-.wrapper {
   margin: 0 auto;
 }
