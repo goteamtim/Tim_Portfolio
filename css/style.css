@@ -52,7 +52,7 @@
 
 
 #contact {
-  background: url(../img/contact.jpg) no-repeat center center fixed;
+  background: url(../img/contact2.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -60,7 +60,11 @@
   width:100%;
   padding-top: 5%;
   padding-bottom: 15em;
-  opacity: 0.6;
+  
+}
+
+#contact div{
+	border: 1px dotted black;
 }
 
 #description {
