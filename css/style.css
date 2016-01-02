@@ -101,6 +101,10 @@ top: -5px;
   margin: 0 auto;
 }
 
+.bottom-project h4{
+  color: grey;
+}
+
 .footer {
   position: relative;
   margin-top: -120px;
